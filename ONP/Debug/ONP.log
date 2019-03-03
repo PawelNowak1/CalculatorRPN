@@ -1,0 +1,23 @@
+﻿  SyntaxValidator.cpp
+  OperatorValidator.cpp
+e:\programy\onp\onp\operatorvalidator.cpp(26): warning C4018: '<': signed/unsigned mismatch
+  Controller.cpp
+e:\programy\onp\onp\operator.h(9): warning C4091: 'typedef ': ignored on left of 'direction' when no variable is declared
+  Operator.cpp
+e:\programy\onp\onp\operator.h(9): warning C4091: 'typedef ': ignored on left of 'direction' when no variable is declared
+  OnpInterpreter.cpp
+e:\programy\onp\onp\operator.h(9): warning C4091: 'typedef ': ignored on left of 'direction' when no variable is declared
+e:\programy\onp\onp\onpinterpreter.cpp(114): warning C4018: '>=': signed/unsigned mismatch
+e:\programy\onp\onp\onpinterpreter.cpp(180): warning C4018: '<': signed/unsigned mismatch
+  OnpFileHandler.cpp
+  main.cpp
+e:\programy\onp\onp\operator.h(9): warning C4091: 'typedef ': ignored on left of 'direction' when no variable is declared
+  Function.cpp
+  Constant.cpp
+  BracketValidator.cpp
+e:\programy\onp\onp\bracketvalidator.cpp(9): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+e:\programy\onp\onp\onpinterpreter.cpp(242): warning C4715: 'calculateOperators': not all control paths return a value
+e:\programy\onp\onp\onpinterpreter.cpp(262): warning C4715: 'calculateFunction': not all control paths return a value
+  ONP.vcxproj -> E:\Programy\ONP\Debug\ONP.exe
+  ONP.vcxproj -> E:\Programy\ONP\Debug\ONP.pdb (Partial PDB)
